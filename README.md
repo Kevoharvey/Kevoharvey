@@ -6,7 +6,6 @@
 *2nd-year Artificial Intelligence Science student @ Galala University*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinharvey224/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kevin.Harvey922@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevoharvey)
 
 </div>
@@ -18,9 +17,6 @@
 - 🎓 Studying **Artificial Intelligence Science** at **Galala University**
 - 🤖 Passionate about building **end-to-end ML pipelines** and **AI-powered web apps**
 - 🌍 Based in **Cairo, Egypt**
-- 🔭 Currently working on full-stack platforms with integrated AI features
-- 💬 Ask me about **Machine Learning, Flask, or Python**
-- 📫 Reach me at **Kevin.Harvey922@gmail.com**
 
 ---
 
