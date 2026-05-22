@@ -103,7 +103,8 @@
 
 | Certification | Issuer | Date |
 |---|---|---|
-| AWS Academy Graduate — Data Engineering | Amazon Web Services | Apr 2026 |
+| AWS Academy Graduate — Data Engineering | Amazon Web Services | Jan 2026 |
+| IBM Artificial Intelligence Fundamentals | IBM | May 2026|
 
 ---
 
