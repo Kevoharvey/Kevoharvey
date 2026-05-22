@@ -107,6 +107,13 @@
 | IBM Artificial Intelligence Fundamentals | IBM | May 2026|
 
 ---
+## 🎓 Courses Watched
+
+| Course | Provider |
+|----------|----------|
+| AWS Academy Data Engineering | AWS Academy |
+| Artificial Intelligence Fundamentals | IBM SkillsBuild |
+| Machine Learning Specialization | Andrew Ng & DeepLearning.AI |
 
 
 <div align="center">
