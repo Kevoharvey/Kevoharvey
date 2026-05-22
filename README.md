@@ -95,7 +95,7 @@
 - 📊 Chart.js analytics dashboard & online registration with document uploads
 - 📧 Automated SMTP email delivery for account credentials
 
-`Python` `Flask` `MySQL` `HTML/CSS/JS` `Jinja2` `Chart.js` `AI`
+`Python` `Flask` `MySQL` `HTML/CSS/JS` `Jinja2` `Chart.js` 
 
 ---
 
