@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Kevin Harvey 👋
-### AI Developer & Full-Stack Engineer from Egypt 🇪🇬
+### AI & Machine Learning Developer | Full-Stack Engineer from Egypt 🇪🇬
 
 *2nd-year Artificial Intelligence Science student @ Galala University*
 
@@ -14,14 +14,16 @@
 ## 💫 About Me
 
 - 🎓 Studying **Artificial Intelligence Science** at **Galala University**
-- 🤖 Passionate about building **end-to-end ML pipelines** and **AI-powered web apps**
-- 🌍 Based in **Cairo, Egypt**
+- 🤖 Passionate about building **Machine Learning systems**, **AI-powered applications**, and **full-stack platforms**
+- 📊 Interested in Machine Learning, Data Engineering, MLOps, and Software Engineering
+- 🌍 Based in Cairo, Egypt
+- 🚀 Always building projects, learning new technologies, and improving my development skills
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,12 +42,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-**Tools & Platforms**
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=blue)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-%23FF7C00.svg?style=for-the-badge&logo=gradio&logoColor=white)
 
 ---
@@ -56,8 +58,8 @@
 > A full-stack multi-role marketplace platform connecting local farmers with buyers for fresh produce.
 
 - 🏗️ Multi-role system (buyer, farmer, admin) with role-based access control
-- 🛍️ Product marketplace with filtering, cart, orders & farmer approval workflow
-- 📊 Admin analytics dashboard, review & rating system, real-time notifications
+- 🛍️ Product marketplace with filtering, cart, orders, and farmer approval workflow
+- 📊 Admin analytics dashboard, review & rating system, and notifications
 - 🗄️ Flask Blueprints architecture with normalized MySQL schema
 
 `Python` `Flask` `MySQL` `HTML/CSS/JS` `Jinja2`
@@ -65,23 +67,23 @@
 ---
 
 ### ❤️ [Heart Disease Prediction System](https://github.com/YoussefTaha39/Heart-Disease-Prediction-Model)
-> Clinical ML system predicting heart disease risk to support early diagnosis and medical decision-making.
+> Clinical ML system predicting heart disease risk to support early diagnosis and decision-making.
 
-- 🤖 Benchmarked 5 algorithms: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, SVM
-- ⚙️ Hyperparameter tuning via GridSearchCV & RandomizedSearchCV
-- 🌐 Responsive Flask web app with real-time prediction UI
-- 📈 Model evaluation using AUC-ROC and precision-recall metrics
+- 🤖 Benchmarked Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, and SVM
+- ⚙️ Hyperparameter tuning using GridSearchCV & RandomizedSearchCV
+- 🌐 Flask web application with real-time predictions
+- 📈 Evaluation using ROC-AUC, precision, recall, and F1-score
 
-`Python` `Scikit-Learn` `Flask` `HTML/CSS/JS` `Pipeline Optimization`
+`Python` `Scikit-Learn` `Flask` `Machine Learning`
 
 ---
 
 ### 🏠 [Housing Prices Prediction](https://github.com/Kevoharvey/HousingPricesProject)
-> Regression-based ML model estimating residential property prices from structured housing data.
+> Regression-based machine learning model estimating residential property prices.
 
-- 📐 Feature engineering and data preprocessing with Pandas & NumPy
-- 🧪 Full ML pipeline from raw data to live predictions
-- 🖥️ Interactive Gradio web interface for real-time price estimation
+- 📐 Data preprocessing and feature engineering
+- 🧪 Complete ML pipeline from training to deployment
+- 🖥️ Interactive Gradio application for live predictions
 
 `Python` `Scikit-Learn` `Pandas` `NumPy` `Gradio`
 
@@ -90,32 +92,65 @@
 ### 🏫 [School Information System](https://github.com/Kevoharvey/School-Information-System)
 > Full-stack school management platform for Galala International School.
 
-- 👥 Multi-role dashboards for admin, student & teacher with schedules, assignments & notifications
-- 🤖 AI-powered SQL assistant with read-only query protection
-- 📊 Chart.js analytics dashboard & online registration with document uploads
-- 📧 Automated SMTP email delivery for account credentials
+- 👥 Multi-role dashboards for administrators, students, and teachers
+- 🤖 AI-powered SQL assistant with read-only protection
+- 📊 Analytics dashboard using Chart.js
+- 📧 Automated SMTP email system and online registration workflow
 
-`Python` `Flask` `MySQL` `HTML/CSS/JS` `Jinja2` `Chart.js` 
+`Python` `Flask` `MySQL` `HTML/CSS/JS` `Jinja2` `Chart.js`
+
+---
+
+### 🍽️ [Restaurant Ordering System](https://github.com/zanzenzon/restaurant-ordering-system)
+> Desktop restaurant management and ordering system.
+
+- 🧾 Order and menu management functionality
+- 💾 MySQL database integration
+- 🖥️ PyQt5 desktop graphical interface
+- ⚡ Streamlined restaurant workflow automation
+
+`Python` `PyQt5` `MySQL` `GUI Development`
+
+---
+
+### 🏢 [GU Hall Reservation System](https://github.com/mohamedhoss123/GU-hall-reservation)
+> University hall booking and reservation management platform.
+
+- 📅 Hall scheduling and reservation tracking
+- 👥 User management and authentication workflows
+- 🗄️ Database-driven booking operations
+- 🎓 Designed for academic and administrative use cases
+
+`Python` `Flask` `MySQL` `HTML/CSS`
 
 ---
 
 ## 🏆 Certifications
 
 | Certification | Issuer | Date |
-|---|---|---|
+|------------|------------|------------|
 | AWS Academy Graduate — Data Engineering | Amazon Web Services Academy | Jan 2026 |
-| IBM Artificial Intelligence Fundamentals | IBM SkillsBuild | May 2026|
+| IBM Artificial Intelligence Fundamentals | IBM SkillsBuild | May 2026 |
 
 ---
-## 🎓 Additional Courses Watched
+
+## 🎓 Additional Courses
 
 | Course | Provider |
 |----------|----------|
 | Machine Learning Specialization | Andrew Ng & DeepLearning.AI |
 | CS50: Introduction to Computer Science | Harvard University |
 
+---
+
+## 🎯 Currently Learning
+- Deep Learning with PyTorch
+- Power BI
+
+---
+
 <div align="center">
 
-*"Build things. Break things. Learn everything."*
+*"Build things. Break things. Learn everything in between."*
 
 </div>
