@@ -110,24 +110,6 @@
 - 🗄️ Flask Blueprints architecture with normalized MySQL database design
 ---
 
-### 🏢 [GU Hall Reservation System](https://github.com/mohamedhoss123/GU-hall-reservation)
-
-> Modern full-stack university hall reservation and scheduling platform.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-- 📅 Hall reservation and scheduling management
-- 👥 User authentication and booking workflows
-- ⚡ Modern React + Vite frontend
-- 🗄️ Express.js backend with PostgreSQL database
-
----
-
 ### 🍽️ [Restaurant Ordering System](https://github.com/zanzenzon/restaurant-ordering-system)
 
 > Full-stack restaurant ordering and management platform.
@@ -162,7 +144,25 @@
 - 🖥️ Interactive Gradio deployment for predictions
 
 ---
+## ⭐️ Contributions
 
+### 🏢 [GU Hall Reservation System](https://github.com/mohamedhoss123/GU-hall-reservation)
+
+> Modern full-stack university hall reservation and scheduling platform.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+- 📅 Hall reservation and scheduling management
+- 👥 User authentication and booking workflows
+- ⚡ Modern React + Vite frontend
+- 🗄️ Express.js backend with PostgreSQL database
+
+---
 ## 🏆 Certifications
 
 | Certification | Issuer | Date |
