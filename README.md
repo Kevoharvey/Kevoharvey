@@ -3,7 +3,7 @@
 # Hi there, I'm Kevin Harvey 👋
 ### AI & Machine Learning Developer | Full-Stack Engineer from Egypt 🇪🇬
 
-*2nd-year Artificial Intelligence Science student @ Galala University*
+*3rd-year Artificial Intelligence Science student @ Galala University*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinharvey224/)
 
