@@ -190,6 +190,6 @@
 
 <div align="center">
 
-*"Build things. Break things. Learn everything."*
+*"Build things. Break things. Learn everything in between"*
 
 </div>
