@@ -70,26 +70,6 @@
 - ⚙️ Hyperparameter tuning using GridSearchCV & RandomizedSearchCV
 - 🌐 Flask web application with real-time prediction capabilities
 - 📈 Comprehensive evaluation using ROC-AUC, precision, recall, and F1-score
-
----
-
-### 🛒 [Local Farmers Market Aggregator](https://github.com/Kevoharvey/LocalFarmersMarketAggregator)
-
-> A full-stack multi-role marketplace platform connecting local farmers with buyers.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
-
-- 🏗️ Multi-role system with buyer, farmer, and admin dashboards
-- 🛍️ Product marketplace with carts, orders, reviews, and ratings
-- 📊 Admin analytics dashboard and management tools
-- 🗄️ Flask Blueprints architecture with normalized MySQL database design
-
 ---
 
 ### 🏫 [School Information System](https://github.com/Kevoharvey/School-Information-System)
@@ -109,6 +89,25 @@
 - 📊 Interactive analytics dashboard with Chart.js
 - 📧 Automated email workflows and online registration system
 
+
+---
+
+### 🛒 [Local Farmers Market Aggregator](https://github.com/Kevoharvey/LocalFarmersMarketAggregator)
+
+> A full-stack multi-role marketplace platform connecting local farmers with buyers.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
+
+- 🏗️ Multi-role system with buyer, farmer, and admin dashboards
+- 🛍️ Product marketplace with carts, orders, reviews, and ratings
+- 📊 Admin analytics dashboard and management tools
+- 🗄️ Flask Blueprints architecture with normalized MySQL database design
 ---
 
 ### 🏢 [GU Hall Reservation System](https://github.com/mohamedhoss123/GU-hall-reservation)
